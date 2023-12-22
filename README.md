@@ -7,10 +7,8 @@
 
 <h3>Bring real icons to your <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></h3>
 <br/>
-<!-- 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/vscode-icons-team.vscode-icons?style=for-the-badge&colorA=252525&colorB=0079CC)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) -->
 
-<!-- --- -->
+[![Version](https://img.shields.io/visual-studio-marketplace/v/LQYld.vscode-icons-iconify?style=for-the-badge&colorA=252525&colorB=0079CC)](https://marketplace.visualstudio.com/items?itemName=LQYld.vscode-icons-iconify)
 
 ## Thanks
 

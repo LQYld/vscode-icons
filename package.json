@@ -26,7 +26,7 @@
     "extensions",
     "iconify"
   ],
-  "main": "out/src/",
+  "main": "dist/src/vscode-icons.bundle.js",
   "browser": "dist/src/vscode-icons.web.bundle.js",
   "icon": "images/logo.png",
   "scripts": {
@@ -45,7 +45,7 @@
     "posttest": "nyc report -r lcov",
     "test:vs": "node ./node_modules/vscode/bin/test",
     "vscode:prepublish": "npm run dist",
-    "vscode:uninstall": "node ./out/src/uninstall.js",
+    "vscode:uninstall": "node ./dist/src/uninstall.bundle.js",
     "precompile": "rimraf ./out ./dist",
     "compile": "tsc -p tsconfig.prod.json",
     "postcompile": "npm run bundle",
@@ -126,7 +126,7 @@
       {
         "id": "vscode-icons",
         "label": "VSCode Icons",
-        "path": "out/src/vsicons-icon-theme.json",
+        "path": "dist/src/vsicons-icon-theme.json",
         "_watch": true
       }
     ],
