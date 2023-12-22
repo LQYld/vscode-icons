@@ -9,7 +9,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
+    "source.fixAll.eslint": "explicit"
   },
   "editor.tabSize": 2,
   "files.associations": {
@@ -27,5 +27,6 @@
     "examples": true
   },
   "typescript.tsdk": "./node_modules/typescript/lib",
-  "vsicons.projectDetection.disableDetect": true
+  "vsicons.projectDetection.disableDetect": true,
+  "svg.preview.background": "dark-transparent"
 }
