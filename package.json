@@ -1,33 +1,17 @@
 {
-  "name": "vscode-icons",
-  "displayName": "vscode-icons",
-  "description": "Icons for Visual Studio Code",
-  "version": "12.6.0",
-  "publisher": "vscode-icons-team",
+  "name": "vscode-icons-iconify",
+  "displayName": "vscode-icons-iconify",
+  "description": "Visual Studio Code icon from Iconify",
+  "version": "0.1.0",
+  "publisher": "lqyld",
   "license": "MIT",
   "author": {
-    "email": "roberto.huertas@outlook.com",
-    "name": "Roberto Huertas",
-    "url": "https://robertohuertas.com"
+    "name": "Qingyun119",
+    "url": "https://github.com/LQYld"
   },
-  "maintainers": [
-    {
-      "email": "jimikar@gmail.com",
-      "name": "Jimi (Dimitris) Charalampidis"
-    },
-    {
-      "email": "stevenbojato04@gmail.com",
-      "name": "Manuel Bojato",
-      "url": "https://kingdarboja.github.io/"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/vscode-icons/vscode-icons"
-  },
-  "bugs": {
-    "url": "https://github.com/vscode-icons/vscode-icons/issues",
-    "email": "roberto.huertas@outlook.com"
+    "url": "https://github.com/LQYld/vscode-icons"
   },
   "engines": {
     "vscode": "^1.40.2",
@@ -37,13 +21,11 @@
     "icons",
     "theme",
     "icon-theme",
-    "multi-root ready",
-    "portable mode ready"
+    "vscode",
+    "file icon",
+    "extensions",
+    "iconify"
   ],
-  "homepage": "https://vscodeicons.team",
-  "sponsor": {
-    "url": "https://github.com/sponsors/vscode-icons"
-  },
   "main": "out/src/",
   "browser": "dist/src/vscode-icons.web.bundle.js",
   "icon": "images/logo.png",
