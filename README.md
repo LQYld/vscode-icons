@@ -10,7 +10,7 @@
 <!-- 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/vscode-icons-team.vscode-icons?style=for-the-badge&colorA=252525&colorB=0079CC)](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) -->
 
----
+<!-- --- -->
 
 ## Thanks
 
