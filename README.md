@@ -10,6 +10,6 @@
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/LQYld.vscode-icons-iconify?style=for-the-badge&colorA=252525&colorB=0079CC)](https://marketplace.visualstudio.com/items?itemName=LQYld.vscode-icons-iconify)
 
-## Thanks
+## 🌸 Thanks
 
 This project is a modification of [**vscode-icons**](https://github.com/vscode-icons/vscode-icons) in the form of Fork.
