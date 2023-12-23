@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-<img src="./images//logo.png" alt="logo" width="250">
+<img src="./images/logo.png" alt="logo" width="250">
 
 <b>vscode-icons-iconify</b>
 </h1>
@@ -9,6 +9,10 @@
 <br/>
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/LQYld.vscode-icons-iconify?style=for-the-badge&colorA=252525&colorB=0079CC)](https://marketplace.visualstudio.com/items?itemName=LQYld.vscode-icons-iconify)
+
+## File Icon
+
+<img src="./images/showcase.png" alt="logo">
 
 ## 🌸 Thanks
 

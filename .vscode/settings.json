@@ -28,5 +28,5 @@
   },
   "typescript.tsdk": "./node_modules/typescript/lib",
   "vsicons.projectDetection.disableDetect": true,
-  "svg.preview.background": "dark-transparent"
+  "svg.preview.background": "editor"
 }
